@@ -1,0 +1,129 @@
+@import url("https://fonts.cdnfonts.com/css/gilroy-bold");
+.HeroSection {
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+  background: white;
+}
+
+.Aurora {
+  width: 1058px;
+  height: 404.9px;
+  left: 191px;
+  top: 0px;
+  position: absolute;
+}
+
+.BgAurora {
+  width: 199.1px;
+  height: 215.08px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: #d60505;
+  box-shadow: 700px 700px 700px;
+  border-radius: 9999px;
+  filter: blur(700px);
+}
+
+.BgAurora1 {
+  width: 199.1px;
+  height: 215.08px;
+  left: 270px;
+  top: 11.9px;
+  position: absolute;
+  background: #067808;
+  box-shadow: 700px 700px 700px;
+  border-radius: 9999px;
+  filter: blur(700px);
+}
+
+.BgAurora2 {
+  width: 271px;
+  height: 293px;
+  left: 787px;
+  top: 111.9px;
+  position: absolute;
+  background: #eac81f;
+  box-shadow: 700px 700px 700px;
+  border-radius: 9999px;
+  filter: blur(700px);
+}
+
+.Frame1000001650 {
+  left: 246px;
+  top: 162px;
+  position: absolute;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 32px;
+  display: inline-flex;
+}
+
+.Frame1000001647 {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 8px;
+  display: flex;
+}
+
+.Group1 {
+  width: 948px;
+  height: 200px;
+  position: relative;
+}
+
+.OptimizeYourOnlineExperienceWithOurAdvancedUrlShorteningSolution {
+  width: 948px;
+  height: 200px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  text-align: center;
+}
+
+.span1 {
+  color: #141414;
+  font-size: 48px;
+  font-family: Gilroy-Bold;
+  font-weight: 400;
+  line-height: 96px;
+  word-wrap: break-word;
+}
+
+.span2 {
+  color: #005ae2;
+  font-size: 48px;
+  font-family: Gilroy-Bold;
+  font-weight: 400;
+  line-height: 96px;
+  word-wrap: break-word;
+}
+
+.span3 {
+  color: #141414;
+  font-size: 48px;
+  font-family: Gilroy-Bold;
+  font-weight: 400;
+  line-height: 96px;
+  word-wrap: break-word;
+}
+
+.img-div {
+  display: flex;
+  justify-content: center;
+  left: 280px;
+  top: 607px;
+  position: absolute;
+}
+
+.img-div2 {
+    display: flex;
+  justify-content: center;
+  left: 0px;
+  right: 80px;
+  top: 331px;
+  position: absolute;
+}
